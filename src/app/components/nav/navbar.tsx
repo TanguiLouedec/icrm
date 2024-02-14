@@ -6,6 +6,7 @@ export default function Navbar() {
     <div className={styles.container}>
       <Link href="/">Home</Link>
       <Link href="/ressource">Ressources</Link>
+      <Link href="/about">About</Link>
     </div>
   )
 }

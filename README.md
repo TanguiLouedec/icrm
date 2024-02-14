@@ -1,6 +1,6 @@
 # Index Cabien des Médias et Ressources (ICMR)
 
-Bienvenue sur le dépôt officiel de l'Institut Cabien des Médias et Ressources (ICMR), votre centre de référence pour l'accès et la découverte de médias et ressources cabiennes. Notre mission est de faciliter l'accès à une large gamme de ressources numériques, y compris des livres, articles scientifiques, films, et bien plus encore, pour enrichir les connaissances de notre communauté.
+Bienvenue sur le dépôt officiel de l'Index Cabien des Médias et Ressources (ICMR), votre centre de référence pour l'accès et la découverte de médias et ressources cabiennes. Notre mission est de faciliter l'accès à une large gamme de ressources numériques, y compris des livres, articles scientifiques, films, et bien plus encore, pour enrichir les connaissances de notre communauté.
 
 ## À propos de l'ICMR
 

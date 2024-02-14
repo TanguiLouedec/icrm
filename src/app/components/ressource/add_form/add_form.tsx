@@ -12,7 +12,7 @@ export function AddForm() {
   return (
     <form action={formAction}>
       <input type="text" id="tittle" name="tittle" required />
-      <button type="submit">{state?.message} submit</button>
+      <button type="submit">submit</button>
     </form>
   )
 }

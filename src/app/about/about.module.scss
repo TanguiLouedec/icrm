@@ -1,0 +1,11 @@
+.container {
+  @apply flex flex-col items-center; 
+}
+
+.text {
+  @apply mt-16 w-1/3 flex flex-col gap-4;
+}
+
+.tittle {
+  @apply text-2xl;
+}

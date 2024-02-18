@@ -12,6 +12,7 @@ export function AddForm() {
   return (
     <form action={formAction}>
       <input type="text" id="tittle" name="tittle" required />
+      <input type="date" id="publication_date" name="publication_date" required />
       <button type="submit">submit</button>
     </form>
   )
